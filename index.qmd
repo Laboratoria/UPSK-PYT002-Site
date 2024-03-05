@@ -1,0 +1,11 @@
+---
+title: "PYT002"
+---
+
+# 💪 Aprimoramento de Python de Laboratoria
+
+> O talento é um dom, mas o aprimoramento é uma escolha. - Bob Ross
+
+🐍 **Python** é uma linguagem de programação de alto nível, interpretada, de script, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte. Foi lançada por Guido van Rossum em 1991.
+
+![](./img/ada.jpg)

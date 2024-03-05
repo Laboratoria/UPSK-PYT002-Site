@@ -1,0 +1,9 @@
+---
+title: "Projeto 1"
+---
+
+O aprimoamento de Python envolve dois projetos.
+
+Projeto 1: [Guess The Number](https://github.com/Laboratoria/UPSK-PY-002-guess-the-number/)
+
+Algumas [estadísticas do projeto 1](./analysis.ipynb).

@@ -1,0 +1,19 @@
+project:
+  type: website
+
+website:
+  title: "PYT002"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Acerca de...
+      - about.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
