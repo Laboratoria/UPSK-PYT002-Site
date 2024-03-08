@@ -8,6 +8,8 @@ website:
       - href: index.qmd
         text: Acerca de...
       - about.qmd
+  repo-url: https://github.com/Laboratoria/UPSK-PYT002-Site
+  repo-actions: [edit, issue]
 
 format:
   html:
